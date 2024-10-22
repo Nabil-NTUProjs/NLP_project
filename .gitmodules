@@ -1,0 +1,3 @@
+[submodule "NLPGeneric"]
+	path = NLPGeneric
+	url = https://github.com/JohnToro-CZAF/NLPGeneric.git
