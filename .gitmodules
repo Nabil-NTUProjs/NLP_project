@@ -1,3 +1,6 @@
 [submodule "NLPGeneric"]
 	path = NLPGeneric
 	url = https://github.com/JohnToro-CZAF/NLPGeneric.git
+[submodule "CNN_update"]
+	path = CNN_update
+	url = https://github.com/JohnToro-CZAF/NLPGeneric
